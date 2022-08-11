@@ -1,0 +1,44 @@
+.bigpage {
+    width: 1200px;
+    margin: auto;
+}
+
+.header {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.content {
+    width: 1200px;
+    height: 400px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.content li {
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+nav ul {
+    padding-left: 33%;
+}
+
+nav li {
+    list-style: none;
+    float: left;
+    margin-right: 30px;
+}
+
+.red {
+    color: red;
+}
+
+.purple {
+    color: purple;
+}
+
+.gold {
+    color: gold;
+}
