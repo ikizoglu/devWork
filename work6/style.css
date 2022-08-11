@@ -1,7 +1,6 @@
 .page {
     width: 1200px;
     margin: 10% auto;
-    background-color: bisque;
 }
 
 .logo {
@@ -9,18 +8,28 @@
 }
 
 .search {
-    width: 1200px;
-    height: 100px;
-    padding-top: 20px;
-    background-color: rgb(211, 210, 210);
+    width: 1212px;
+    height: 120px;
+    padding-top: 10px;
+    background-color: rgb(243, 234, 234);
     text-align: center;
 }
 
-#box {
-    width: 370px;
+.links {
+    width: 1240px;
+    background-color: black;
+}
+
+.box {
+    width: 392px;
+    height: 80px;
     float: left;
     background-color: aqua;
-    border: 5px black;
     padding: 5px;
-    margin-left: 5px;
+    margin-left: 2px;
+    text-align: center;
+}
+
+.box li {
+    list-style: none;
 }
